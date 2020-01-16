@@ -6,9 +6,9 @@
 ###### h6
 
 
->我是註解
-
-hello *markdown* 斜體
-hello **markdown** 粗體
-hello ***markdown*** 斜體加粗體
-hello ~~markdown~~ 刪除線
+>我是註解  
+換行後面加兩個空白  
+hello *markdown* 斜體  
+hello **markdown** 粗體  
+hello ***markdown*** 斜體加粗體  
+hello ~~markdown~~ 刪除線  
