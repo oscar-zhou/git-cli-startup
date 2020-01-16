@@ -36,4 +36,5 @@ def hello():
 
 ![](./圖片當前路徑)
 
-[go to headet1](#header1)
+[go to Headet1](#Header1)
+[go to page A](./a.md)
