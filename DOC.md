@@ -20,3 +20,16 @@ hello ~~markdown~~ 刪除線
 [google](https://google.com)
 
 hello `markdown`
+
+```
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
+```
+```python
+def hello():
+    print('hello world')
+```
